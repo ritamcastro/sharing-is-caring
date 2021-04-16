@@ -18,7 +18,7 @@ Within the scope of the conference I have also attended the following workshops:
 
 ✅ `Incrementally Adopt Modern React Patterns in a Legacy Codebase` by [Richard Moss](https://github.com/ric9176/refactor-to-modern-patterns-workshop) (April 7)
 
-🔜 `State Management in React with Context and Hooks` by Roy Derks (April 13)
+✅ `State Management in React with Context and Hooks` by Roy Derks (April 13)
 
 🔜 `Shipping High Performance React Apps with Datadog and Real User Monitoring` with DataDog team (April 21)
 
