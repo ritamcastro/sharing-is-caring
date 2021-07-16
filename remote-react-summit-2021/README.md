@@ -15,14 +15,14 @@ the power of Atomic Design to build the right product (using React, duh!) and ca
 Programming and Test Driven Development to build it right (by exploring the React Testing Library).
 ```
 
-You can find the slides [here](https://github.com/ritamcastro/sharing-is-caring/blob/main/remote-react-summit-2021/A_glimpse_into_XP_and_Atomic_design.pdf).
+You can find the slides [here](https://github.com/ritamcastro/sharing-is-caring/blob/main/remote-react-summit-2021/A_glimpse_into_XP_and_Atomic_design.pdf) and the presentation [here](https://www.youtube.com/watch?v=oY4a5eoCDCs).
 
 Within the scope of the conference I have also attended the following workshops:
 
 ✅ `Incrementally Adopt Modern React Patterns in a Legacy Codebase` by [Richard Moss](https://github.com/ric9176/refactor-to-modern-patterns-workshop) (April 7)
 
-✅ `State Management in React with Context and Hooks` by Roy Derks (April 13)
+✅ `State Management in React with Context and Hooks` by [Roy Derks](https://github.com/royderks/react-context-hooks-workshop) (April 13)
 
-🔜 `Shipping High Performance React Apps with Datadog and Real User Monitoring` with DataDog team (April 21)
+❌ `Shipping High Performance React Apps with Datadog and Real User Monitoring` with DataDog team (April 21)
 
-🔜 `React Hooks Tips Only the Pros Know` by Maurice de Beijer (April 21)
+✅ `React Hooks Tips Only the Pros Know` by [Maurice de Beijer](https://github.com/mauricedb/react-hooks-tips-only-the-pros-know) (April 21)
