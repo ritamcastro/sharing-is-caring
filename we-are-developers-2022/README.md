@@ -1,6 +1,7 @@
 # We Are Developers 2022
 
 We Are Developers was an event held in Berlin in June 2022 it featured more than 10k developers and several companies worldwide.
+
 The Volkswagen Group was a sponsor and I have submited a presentation on how we can Build the Right Product and Build it Right. 
 
 <img src="https://github.com/ritamcastro/sharing-is-caring/blob/main/we-are-developers-2022/IMG_20220614_110910.jpg" alt="This is my badge" width="240"/>
