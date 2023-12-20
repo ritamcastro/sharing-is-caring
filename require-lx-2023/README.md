@@ -1,7 +1,3 @@
-
-
-
-
 # require("lx") 
 
 [require("lx")](https://www.meetup.com/require-lx/) is comunity for JavaScript developers in Lisbon. 
